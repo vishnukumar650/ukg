@@ -1,2 +1,6 @@
 hen
 line 2 hen man
+hen 3 shooter
+dhobi
+line 6 gunia
+line 5 mafia
